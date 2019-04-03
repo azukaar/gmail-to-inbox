@@ -1,0 +1,45 @@
+.gb_gd.gb_Md.gb_od {
+  background-color: rgb(56, 118, 236) !important;
+  box-shadow: 0px 1px 15px 0px rgba(0,0,0,0.5);
+}
+.gb_Ue.gb_Ve svg {
+  color: white;
+  opacity: 1;
+}
+.gb_Ue.gb_Ve svg:hover {
+  color: black;
+  opacity: .54;
+}
+input.gb_Ie::placeholder {
+  color: white !important;
+}
+.gb_oe input.gb_Ie::placeholder {
+  color: black !important;
+}
+svg.gb_pe {
+  color: white !important;
+  opacity: 1 !important;
+}
+tr.zA {
+  min-height: 30px;
+  border: 1px #e8e8e8 solid;
+  border-bottom: none;
+}
+.nH.bkL {
+  background-color: rgb(239, 239, 239)
+}
+.nH.Wg.aAD.aAr {
+  background-color: rgb(239, 239, 239)
+}
+.aim {
+  height: 40px;
+}
+.gb_ja svg, .gb_4b svg {
+  color: white !important;
+  opacity: 1 !important;
+}
+.gb_Vd.gb_Tb.gb_ce {
+  color: white;
+  text-decoration: none;
+  font-size:16pt;
+}
